@@ -1,16 +1,32 @@
-# weather_app
+# Weather Forecast Application
 
-A new Flutter project.
+A mobile weather application built with Flutter and Dart that provides real-time weather information and forecasts using the OpenWeatherMap API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time weather information
+- Location-based weather search
+- Temperature and weather condition display
+- Humidity information
+- Weather forecast data
+- Simple and user-friendly mobile interface
+- API-based weather data integration
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- OpenWeatherMap API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+```text
+weather_app/
+├── android/
+├── ios/
+├── lib/
+├── test/
+├── web/
+├── windows/
+├── pubspec.yaml
+└── README.md
