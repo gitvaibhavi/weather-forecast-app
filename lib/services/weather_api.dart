@@ -15,7 +15,7 @@ class WeatherApiException implements Exception {
 class WeatherAPI {
   // TODO: move this to a secure location (--dart-define / env file) before
   // shipping. It is left inline here only to match your original setup.
-  static const String _apiKey = '974b5c6cde14d9f9a7bcfdf1f1c76f24';
+  static const String _apiKey = 'YOUR_ACTUAL_API_KEY';
   static const String _baseUrl = 'https://api.openweathermap.org/data/2.5';
 
   /// Fetches current weather conditions for the given coordinates.
