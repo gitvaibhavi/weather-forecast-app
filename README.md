@@ -34,4 +34,6 @@ weather_app/
 
 ## 📱 App Screenshots
 
+### Weather Forecast App – Mobile Preview
+
 ![Weather App Preview](weather-app-preview.png)
