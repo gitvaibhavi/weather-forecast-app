@@ -30,3 +30,8 @@ weather_app/
 ├── windows/
 ├── pubspec.yaml
 └── README.md
+```
+
+## 📱 App Screenshots
+
+![Weather App Preview](weather-app-preview.png)
